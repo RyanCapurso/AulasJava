@@ -19,7 +19,6 @@ public class B {
 
         area = pi * Math.pow(radius, 2);
 
-        System.out.println("A área é: " + area);
         System.out.printf("A área é: %.4f%n", area);
 
 
