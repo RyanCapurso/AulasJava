@@ -1,0 +1,15 @@
+Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no sistema
+cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo será encerrado quando pelo
+menos uma de duas coordenadas for NULA (nesta situação sem escrever mensagem alguma).
+
+Exemplo:
+
+Entrada:    Saída:
+2 2         primeiro
+3 -2        quarto
+-8 -1       terceiro
+-7 1        segundo
+
+
+
+
